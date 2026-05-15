@@ -1,4 +1,3 @@
-# final_project_hr_analytics_job_prediction
 # Predicting Job Change Intentions Using Machine Learning
 
 ## Project Overview
